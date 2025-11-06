@@ -177,7 +177,7 @@ nav.menubar a:hover {
     transition: 0.6s;
 }
 
-/* стили для странциы about */
+/* стили для странциы about 
 #about::after {
     content: "";
     position: absolute;
@@ -188,6 +188,7 @@ nav.menubar a:hover {
     height: 3120px;
     opacity: 0.2;
 }
+    */
 
 #about section {
     display: flex;
@@ -258,6 +259,7 @@ nav.menubar a:hover {
     margin: auto;
 }
 .fourthSection a{
+    font-size: 20px;
     text-decoration: none;
     color: gray;
     border: 1px solid #eee;
